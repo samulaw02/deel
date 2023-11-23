@@ -1,4 +1,4 @@
-# Implementation (What I did)
+#### Implementation (What I did)
 
 1.  I was able to fix the broken endpoint
 1.  I decoupled the models so that there will be separation of concerns and easy to maintain.
@@ -9,6 +9,6 @@
 1.  I implemented transactions and concurrency as deem fit.
 1.  I also dockerized the application using Dockerfile and docker-compose
 
-If you have any concerns, please feel free to reach out to me.
-Expecting your swift response. 
-Thanks.
+# If you have any concerns, please feel free to reach out to me.
+# Expecting your swift response. 
+# Thanks.
