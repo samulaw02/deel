@@ -9,6 +9,17 @@
 1.  I implemented transactions and concurrency as deem fit.
 1.  I also dockerized the application using Dockerfile and docker-compose
 
+
+#### To Run Application
+1. `npm install`
+1.  `npm run start`
+
+
+
+#### To Test Application
+1.  `npm run test`
+
+
 # If you have any concerns, please feel free to reach out to me.
 # Expecting your swift response. 
 # Thanks.
